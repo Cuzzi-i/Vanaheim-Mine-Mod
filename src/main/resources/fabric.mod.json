@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "cuzzi_test",
+	"version": "${version}",
+	"name": "Test de mod by Cuzzi",
+	"description": "Testing capabilitys in Fabric mod loading, with no McCreator",
+	"authors": [
+		"Cuzzi"
+	],
+	"contact": {
+		"discord": "https://discord.gg/5qX6SC9gzF"
+
+	},
+	"license": "MIT",
+	"icon": "assets/cuzzi-test/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.cuzzi.test.CuzziTest"
+		],
+		"client": [
+			"net.cuzzi.test.CuzziTestClient"
+		],
+		"fabric-datagen": [
+			"net.cuzzi.test.CuzziTestDataGenerator"
+		]
+	},
+	"mixins": [
+		"cuzzi-test.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
