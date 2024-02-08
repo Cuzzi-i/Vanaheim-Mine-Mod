@@ -1,0 +1,13 @@
+{
+  "item.cuzzi_test.ring": "Ring o' Valor",
+  "item.cuzzi_test.northsword": "Norther LargeSword",
+  "item.cuzzi_test.d20": "D20",
+  "item.cuzzi_test.hambur": "Double-Burguer",
+
+  "itemgroup.ring": "Test mod Tab",
+
+  "block.cuzzi_test.blue_tile": "Blue Tile",
+  "block.cuzzi_test.orange_tile": "Orange Tile",
+  "block.cuzzi_test.green_tile": "Green Tile",
+  "block.cuzzi_test.phillipc": "PHILLIP COMMAND"
+}

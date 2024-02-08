@@ -1,0 +1,20 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ILI",
+    "I I",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "cuzzi_test:ring"
+  }
+}

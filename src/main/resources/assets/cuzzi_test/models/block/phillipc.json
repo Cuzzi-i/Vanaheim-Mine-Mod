@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "top": "cuzzi_test:block/advcubeup",
+    "side": "cuzzi_test:block/advcubeside",
+    "bottom": "cuzzi_test:block/advcubeside"
+  }
+}

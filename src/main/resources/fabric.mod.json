@@ -12,7 +12,7 @@
 
 	},
 	"license": "MIT",
-	"icon": "assets/cuzzi-test/icon.png",
+	"icon": "assets/cuzzi_test/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [

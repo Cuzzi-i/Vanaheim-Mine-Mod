@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "cuzzi_test:ring"
+    }
+  ],
+  "result": {
+    "item": "cuzzi_test:blue_tile",
+    "count": 8
+  }
+}

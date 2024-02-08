@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cuzzi_test:block/orange_tile"
+  }
+}

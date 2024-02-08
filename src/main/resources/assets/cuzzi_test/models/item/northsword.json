@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "cuzzi_test:item/northweapon"
+  }
+}

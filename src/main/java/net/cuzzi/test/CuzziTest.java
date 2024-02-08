@@ -1,5 +1,8 @@
 package net.cuzzi.test;
 
+import net.cuzzi.test.block.ModBlocks;
+import net.cuzzi.test.item.ModItems;
+import net.cuzzi.test.item.ModItemsGroups;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -13,7 +16,8 @@ public class CuzziTest implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
-		LOGGER.info("Hello Fabric world!");
+		ModItemsGroups.registerItemGroups();
+		ModItems.RegisterModItems();
+		ModBlocks.RegisterModBlock();
 	}
 }

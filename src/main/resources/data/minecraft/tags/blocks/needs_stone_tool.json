@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cuzzi_test:blue_tile",
+    "cuzzi_test:orange_tile",
+    "cuzzi_test:green_tile"
+
+  ]
+}
